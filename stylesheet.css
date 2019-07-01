@@ -1,0 +1,55 @@
+* {margin: 0; padding: 0;}
+
+html {
+  background-image: url(doors.jpg);
+  background-position-y: 200px;
+}
+
+body {
+    background-color: lightgray;
+    opacity: 20%;
+    width: 700px;
+    margin: 10px auto;
+    padding: 10px;
+    padding-left: 35px;
+    border: 20px solid black;
+    text-align: center;
+}
+text {
+  color: red; 
+}
+
+input {
+  width: 100%;
+  display: block;
+    padding: 10px 20px;
+  margin: 10px 0;
+       box-sizing: border-box;
+       text-align: center;
+
+}
+
+h2 {
+  font-family: 'Special Elite', cursive;
+padding-top: 10px;
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+h1 {
+  font-family: 'Special Elite', cursive;
+
+font-size: 28px;
+padding-bottom: 10px; 
+
+ 
+}
+p {
+ text-align: left; 
+ font-family: 'Special Elite', sans-serif;
+
+
+ padding-bottom: 6px;
+ margin-top: 15px;  
+ font-size: 21px; 
+}
